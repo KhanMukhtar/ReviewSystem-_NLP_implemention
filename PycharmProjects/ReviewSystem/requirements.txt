@@ -17,5 +17,4 @@ wincertstore==0.2
 wordnet
 pros_cons
 reuters
-import nltk
 nltk.download()
